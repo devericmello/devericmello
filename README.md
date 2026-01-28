@@ -87,8 +87,8 @@ Exemplo de vitrine (você vai preencher quando subir os projetos):
 ## 📊 GitHub Stats (opcional)
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devericmello&show_icons=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devericmello&layout=compact" />
 </p>
 
 ---
